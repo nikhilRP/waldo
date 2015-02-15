@@ -7,3 +7,8 @@ Multiple solutions to find waldo.
 
 Warning: This algo was created for fun and learning purposes. So please don't take it seriously.
 Would appreciate the input. 
+
+Dependencies:
+  
+  1. Pandas (to load data and for Genetic Algorithm)
+  2. pymorg (to implement TSP solution)
